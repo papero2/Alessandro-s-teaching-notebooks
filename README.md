@@ -16,6 +16,6 @@ If you wish to execute a notebook, please click the corresponding DeepNote (DN) 
 [NB](https://nbviewer.jupyter.org/github/papero2/Alessandro-s-teaching-notebooks/blob/master/underfitting_overfitting.ipynb)
 8. Probabilistic_Localization.ipynb [DN](https://beta.deepnote.org/launch?template=data-science&url=https%3A%2F%2Fgithub.com%2Falessandro-giusti%2Fteaching-notebooks%2Fblob%2Fmaster%2Frobotics%2F06%2520probabilistic%2520localization.ipynb)
 [NB](https://nbviewer.jupyter.org/github/papero2/Alessandro-s-teaching-notebooks/blob/master/underfitting_overfitting.ipynb)
-9. Iterative_Closest_Points.ipynb [DN](https://beta.deepnote.org/launch?template=data-science&url=https%3A%2F%2Fgithub.com%2Fpapero2%2FAlessandro-s-teaching-notebooks%2Fblob%2Fmaster%2Funderfitting_overfitting.ipynb)
+9. Iterative_Closest_Points.ipynb [DN](https://beta.deepnote.org/launch?template=data-science&url=https%3A%2F%2Fgithub.com%2Falessandro-giusti%2Fteaching-notebooks%2Fblob%2Fmaster%2Frobotics%2F07%2520Iterative%2520Closest%2520Points.ipynb)
 [NB](https://nbviewer.jupyter.org/github/papero2/Alessandro-s-teaching-notebooks/blob/master/underfitting_overfitting.ipynb)
 
